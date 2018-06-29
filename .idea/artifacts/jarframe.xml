@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jarframe">
+    <output-path>$PROJECT_DIR$/out/artifacts/jarframe</output-path>
+    <root id="archive" name="jarframe.jar">
+      <element id="module-output" name="VIP18_Exercise" />
+    </root>
+  </artifact>
+</component>

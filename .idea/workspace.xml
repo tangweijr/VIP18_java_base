@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jarframe" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="755bbede-cf6b-49d4-8cb0-fc981481f55c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Singleton" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactoryMode/CheesePizza2.java" />
+        <option value="$PROJECT_DIR$/src/cn/how2j/Item.java" />
+        <option value="$PROJECT_DIR$/src/cn/how2j/Hero.java" />
+        <option value="$PROJECT_DIR$/src/interfaceExercise20180414/Laserable.java" />
+        <option value="$PROJECT_DIR$/src/interfaceExercise20180414/Hero.java" />
+        <option value="$PROJECT_DIR$/src/interfaceExercise20180414/Soldier.java" />
+        <option value="$PROJECT_DIR$/src/interfaceExercise20180414/MovieActorTest.java" />
+        <option value="$PROJECT_DIR$/src/innerClass21080420/HTTP2Test.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/SellerFactory2.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/BookSeller.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/ParkSeller.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/CinemaSeller.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/ParkSellerVer2.java" />
+        <option value="$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/polymorphism20180411/Cycle.java" />
+        <option value="$PROJECT_DIR$/src/polymorphism20180411/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/how2j/AbsClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/how2j/Test.java" />
+        <option value="$PROJECT_DIR$/src/RunTime20180501.java" />
+        <option value="$PROJECT_DIR$/src/exception20180425/ThrowException20180426.java" />
+        <option value="$PROJECT_DIR$/src/exception20180425/NameFormatException.java" />
+        <option value="$PROJECT_DIR$/src/exception20180425/IDLengthException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/TemperatureOutOfRangeException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/AirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/AgeOutOfRangeException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Animal.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/PriceException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Car.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/ScreenInchTooSmallException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/PassWordFormatException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/DoorLocker.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/SizeRangeException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Ecoli.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Headset.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Light.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/DrugContentOutOfRangeException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Penicillin.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/OSException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Computer.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Phone.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/UseTypeErrorException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/PhoneCharger.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/NameFormatException.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/PichiaPastoris.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/QQAccount.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/School.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/twentyClass20180321/Weather.java" />
+        <option value="$PROJECT_DIR$/src/exception20180425/Person.java" />
+        <option value="$PROJECT_DIR$/src/exception20180425/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/JarJFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VIP18_Exercise" type="58d84e3e:PackageViewProjectNode" />
+              <item name="VIP18_Exercise" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VIP18_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIP18_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIP18_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIP18_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ChengJi20180226.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="VIP18_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="VIP18_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="VIP18_Exercise" type="cbb8eebc:String" user="VIP18_Exercise" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Java/VIP18_Exercise/src/exception20180425/Person.java&#10;maopao&#9;FILE&#9;file://D:/Java/VIP18_Exercise/src/MaoPao20180307.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="tangeijr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21954022" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="simplyFactory20180416.abstractFactoryMode" />
+      <recent name="simplyFactory20180416.abstractFactoryMode.Pizza" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\VIP18_Exercise\src\simplyFactory20180416\abstractFactoryMode" />
+      <recent name="D:\Java\VIP18_Exercise\src\simplyFactory20180416\factoryMode" />
+      <recent name="D:\Java\VIP18_Exercise\src\polymorphism20180411" />
+      <recent name="D:\Java\VIP18_Exercise\src\Bank20180331" />
+      <recent name="D:\Java\VIP18_Exercise\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JarJFrame">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="JarJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JarJFrame" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception20180425.Person" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception20180425.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception20180425.PersonTest" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception20180425.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RunTime20180501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunTime20180501" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simplyFactory20180416.simplyFactorySeller.SimpleFactoryTest" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simplyFactory20180416.simplyFactorySeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThrowException20180426" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception20180425.ThrowException20180426" />
+      <module name="VIP18_Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception20180425.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleFactoryTest" />
+      <item itemvalue="Application.ThrowException20180426" />
+      <item itemvalue="Application.RunTime20180501" />
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.JarJFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JarJFrame" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.RunTime20180501" />
+        <item itemvalue="Application.ThrowException20180426" />
+        <item itemvalue="Application.SimpleFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="755bbede-cf6b-49d4-8cb0-fc981481f55c" name="Default" comment="" />
+      <created>1520310283397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520310283397</updated>
+      <workItem from="1520310285209" duration="289000" />
+      <workItem from="1520310672045" duration="845000" />
+      <workItem from="1520423599236" duration="9558000" />
+      <workItem from="1520437749843" duration="228000" />
+      <workItem from="1520510524048" duration="1076000" />
+      <workItem from="1520602038849" duration="7046000" />
+      <workItem from="1520611875656" duration="77000" />
+      <workItem from="1520612070249" duration="87000" />
+      <workItem from="1520748658377" duration="313000" />
+      <workItem from="1520750418075" duration="15000" />
+      <workItem from="1520864313242" duration="2200000" />
+      <workItem from="1521026834091" duration="9554000" />
+      <workItem from="1521073645836" duration="1798000" />
+      <workItem from="1521118557445" duration="152000" />
+      <workItem from="1521198799060" duration="2015000" />
+      <workItem from="1521211958262" duration="4963000" />
+      <workItem from="1521245111046" duration="8043000" />
+      <workItem from="1521267479437" duration="22000" />
+      <workItem from="1521286454379" duration="4195000" />
+      <workItem from="1521348423183" duration="19350000" />
+      <workItem from="1521432543515" duration="589000" />
+      <workItem from="1521439494854" duration="10000" />
+      <workItem from="1521460347818" duration="9481000" />
+      <workItem from="1521555252451" duration="7091000" />
+      <workItem from="1521624177713" duration="191000" />
+      <workItem from="1521624440614" duration="93000" />
+      <workItem from="1521633543652" duration="12435000" />
+      <workItem from="1521804899095" duration="363000" />
+      <workItem from="1521805616356" duration="2062000" />
+      <workItem from="1521808109087" duration="2009000" />
+      <workItem from="1521822074256" duration="237000" />
+      <workItem from="1521876534038" duration="9000" />
+      <workItem from="1521901594854" duration="4581000" />
+      <workItem from="1521986195733" duration="229000" />
+      <workItem from="1522066340266" duration="5727000" />
+      <workItem from="1522237259847" duration="317000" />
+      <workItem from="1522243378865" duration="366000" />
+      <workItem from="1522247190316" duration="6851000" />
+      <workItem from="1522284618661" duration="1283000" />
+      <workItem from="1522288662935" duration="7329000" />
+      <workItem from="1522299864892" duration="614000" />
+      <workItem from="1522333467363" duration="2871000" />
+      <workItem from="1522409681632" duration="10263000" />
+      <workItem from="1522451130749" duration="3495000" />
+      <workItem from="1522498723715" duration="9878000" />
+      <workItem from="1522536597645" duration="6096000" />
+      <workItem from="1522675908258" duration="5393000" />
+      <workItem from="1522735749475" duration="985000" />
+      <workItem from="1522928013919" duration="155000" />
+      <workItem from="1522930776868" duration="409000" />
+      <workItem from="1523113421227" duration="1830000" />
+      <workItem from="1523153907325" duration="650000" />
+      <workItem from="1523154612230" duration="169000" />
+      <workItem from="1523291133593" duration="354000" />
+      <workItem from="1523291589758" duration="994000" />
+      <workItem from="1523293300005" duration="159000" />
+      <workItem from="1523325413167" duration="1912000" />
+      <workItem from="1523334503272" duration="671000" />
+      <workItem from="1523336509646" duration="1111000" />
+      <workItem from="1523367055049" duration="2630000" />
+      <workItem from="1523446556701" duration="1400000" />
+      <workItem from="1523448236771" duration="4776000" />
+      <workItem from="1523456675799" duration="309000" />
+      <workItem from="1523498315895" duration="593000" />
+      <workItem from="1523504495905" duration="83000" />
+      <workItem from="1523619379668" duration="201000" />
+      <workItem from="1523620999727" duration="3483000" />
+      <workItem from="1523663620688" duration="24000" />
+      <workItem from="1523711743406" duration="4984000" />
+      <workItem from="1523717429806" duration="607000" />
+      <workItem from="1523804498453" duration="2704000" />
+      <workItem from="1523888164308" duration="4178000" />
+      <workItem from="1523947759588" duration="2830000" />
+      <workItem from="1523970382723" duration="110000" />
+      <workItem from="1523970544368" duration="709000" />
+      <workItem from="1523972899593" duration="6474000" />
+      <workItem from="1524011448325" duration="5000000" />
+      <workItem from="1524026533843" duration="1282000" />
+      <workItem from="1524051015636" duration="6485000" />
+      <workItem from="1524110898321" duration="1295000" />
+      <workItem from="1524143902885" duration="669000" />
+      <workItem from="1524146697094" duration="1304000" />
+      <workItem from="1524151661908" duration="231000" />
+      <workItem from="1524224995938" duration="3189000" />
+      <workItem from="1524266767908" duration="4044000" />
+      <workItem from="1524324400433" duration="2123000" />
+      <workItem from="1524365048553" duration="821000" />
+      <workItem from="1524377911350" duration="6307000" />
+      <workItem from="1524406031542" duration="3810000" />
+      <workItem from="1524410247535" duration="254000" />
+      <workItem from="1524484936657" duration="2602000" />
+      <workItem from="1524541271043" duration="972000" />
+      <workItem from="1524542384738" duration="74000" />
+      <workItem from="1524542492906" duration="397000" />
+      <workItem from="1524569993112" duration="108000" />
+      <workItem from="1524663801137" duration="953000" />
+      <workItem from="1524715712052" duration="1235000" />
+      <workItem from="1524743701967" duration="2464000" />
+      <workItem from="1524828661699" duration="608000" />
+      <workItem from="1524837611258" duration="955000" />
+      <workItem from="1524843295116" duration="30000" />
+      <workItem from="1525129366885" duration="1791000" />
+      <workItem from="1525183251747" duration="60000" />
+      <workItem from="1525262426402" duration="10034000" />
+      <workItem from="1525438231635" duration="1731000" />
+      <workItem from="1525440224890" duration="433000" />
+      <workItem from="1525445666228" duration="1414000" />
+      <workItem from="1525754123333" duration="26000" />
+      <workItem from="1526820392595" duration="52000" />
+      <workItem from="1530245312271" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="280096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31761006" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.21041666" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5035461" side_tool="true" weight="0.1954612" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39779875" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3254717" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="7" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32698414" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="46" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/ParkSellerVer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplyFactory20180416/simplyFactoryMode/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaceExercise20180414/MovieActorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplyFactory20180416/simplyFactorySeller/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism20180411/Bicycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism20180411/ClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/how2j/AbsClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/how2j/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/polymorphism20180411/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RunTime20180501.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="354" column="19" selection-start-line="354" selection-start-column="19" selection-end-line="354" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="650" column="17" selection-start-line="650" selection-start-column="17" selection-end-line="650" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception20180425/NameFormatException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/TemperatureOutOfRangeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/AirConditioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="104" column="55" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/AgeOutOfRangeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/PriceException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1325">
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1199">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/ScreenInchTooSmallException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/PassWordFormatException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/DoorLocker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/SizeRangeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Ecoli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Headset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1339">
+          <caret line="97" column="45" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1167">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/DrugContentOutOfRangeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Penicillin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="63" column="54" lean-forward="true" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/OSException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/UseTypeErrorException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/PhoneCharger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-735">
+          <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/twentyClassException/NameFormatException.java" />
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/PichiaPastoris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/QQAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/RiceCooker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1149">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-911">
+          <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyClass20180321/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/io/IOException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception20180425/PersonTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception20180425/IDFormatException.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception20180425/ThrowException20180426.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JarJFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception20180425/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="75" lean-forward="true" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChengJi20180226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>jarframe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21954022" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21954022" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VIP18_Exercise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21954022" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21954022" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
